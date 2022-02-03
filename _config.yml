@@ -106,13 +106,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Daejeon, Republic of Korea"
-  email            : "kimjoochan@kaist.ac.kr"
+  email            : # "kimjoochan@kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:kimjoochan@kaist.ac.kr
     - label: "NAVER Blog"
-      icon: "fas fa-fw fa-naver"
+      icon: "fas fa-fw fa-globe"
       url: "https://blog.naver.com/kimjoochan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
