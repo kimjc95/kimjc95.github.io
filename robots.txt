@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://kimjc95.github.io/sitemap.xml
